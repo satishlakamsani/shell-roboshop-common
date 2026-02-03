@@ -11,7 +11,7 @@ N="\e[0m"
 SCRIPT_DIR=$PWD
 START_TIME=$(date +%s)
 MONGODB_HOST=mongodb.pugasaha.online
-MYSQL_HOST=mysql.pugasa.online
+MYSQL_HOST=mysql.pugasaha.online
 
 mkdir -p $LOGS_FOLDER
 
